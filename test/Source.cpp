@@ -21,3 +21,5 @@ int main()
 //correction to the publishing comment
 //The program will prompt you to publish instead of push for the first commit in a new branch
 
+//note that merges and rebases cannot be done if conflicting changes have been made in each branch
+
