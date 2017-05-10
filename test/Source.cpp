@@ -1,7 +1,7 @@
 using namespace std;
 #include<iostream>
 
-int manin()
+int main()
 {
 	cout << "Hello World" << endl;
 }
