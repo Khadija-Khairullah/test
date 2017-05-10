@@ -18,4 +18,9 @@ int main()
 //it will prompt you to sync, which will update the repo online
 //for all following commits, eery commit needs to be synced and then pushed
 
+//to create a new branch, go to the branches tab of team explorer
+//right click on master (or whatever branch you want to branch from) and click new local branch from
+//then name your new branch and select where it branches from
+//you will be prompted to publish instead of sync
+
 
