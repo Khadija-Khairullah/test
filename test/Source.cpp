@@ -23,3 +23,6 @@ int main()
 
 //note that merges and rebases cannot be done if conflicting changes have been made in each branch
 
+//in this case, we had made branch1, with text, merged it with master and then deleted branch1
+//now it is not possible to merge branch2 to master
+
