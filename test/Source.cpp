@@ -18,4 +18,6 @@ int main()
 //for all following commits, eery commit needs to be synced and then pushed
 
 //when creating a new branch, all changes must be committed first
+//correction to the publishing comment
+//The program will prompt you to publish instead of push for the first commit in a new branch
 
