@@ -17,4 +17,5 @@ int main()
 //it will prompt you to sync, which will update the repo online
 //for all following commits, eery commit needs to be synced and then pushed
 
+//when creating a new branch, all changes must be committed first
 
